@@ -1,3 +1,5 @@
+moved to lumiloop-patterns
+
 # Lumiloop — Minimal PWA Starter
 
 This is a tiny, static Progressive Web App you can upload to GitHub **from your phone**. 
